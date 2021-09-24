@@ -7,15 +7,15 @@ body{
    border-top: 3px solid ;
    border-bottom: 3px solid;
     border-color: black;
-    background-color:;
+    background-color:violet;
     font-weight: bold;
-    height: 20%;
+    height: 10px;
     width: 100%;
-    display:inline-block;
-    overflow: auto;
+    display:block;
+    overflow-y: scroll;
     height: 100px;
     margin-top:5px ;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     
 }
 
