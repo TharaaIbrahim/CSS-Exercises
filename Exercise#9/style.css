@@ -1,0 +1,21 @@
+div{
+    width: 35px;;
+    height:35px;
+    display: table-cell;
+    display: inline-block;
+    border: 1px solid black;
+    background-color:green;
+  
+    margin-top: 2%;
+
+}
+.divup{
+    background-color:yellow;
+   
+} 
+
+.divdown{
+vertical-align:middle;
+
+   
+}

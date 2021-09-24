@@ -1,0 +1,34 @@
+
+body{
+    background-color:violet;
+}
+
+.four{
+   border-top: 3px solid ;
+   border-bottom: 3px solid;
+    border-color: black;
+    background-color:;
+    font-weight: bold;
+    height: 20%;
+    width: 100%;
+    display:inline-block;
+    overflow: auto;
+    height: 100px;
+    margin-top:5px ;
+    margin-bottom: 5px;
+    
+}
+
+article{
+    display: inline-block;
+    background-color:gainsboro;
+    border: 1px;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    text-align: justify;
+    margin-left: 5px;
+   
+    
+   
+}

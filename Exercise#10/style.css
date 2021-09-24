@@ -1,0 +1,54 @@
+.container{
+    background-color: green;
+    width: 800px;
+    height: 800px;
+    overflow: hidden;
+  
+}
+
+.div1{
+    background-color: yellow;
+  width: 90%;
+  height: 90%;
+  margin:auto;
+ margin-top: 5%;
+  position:relative;
+  overflow: hidden;
+}
+div{
+    background-color: green;
+    width:90%;
+    height: 90%;
+   margin: auto;
+    margin-top: 5%;
+    position: relative;
+    overflow: hidden;
+}
+
+.div3{
+    background-color: yellow;
+    width:90%;
+    height:90%;
+    margin: auto;
+    margin-top: 5%;
+    position: relative;
+    overflow: hidden;
+}
+.div4{
+    background-color: green;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 5%;
+    position: relative;
+    
+    overflow: hidden;
+}
+p{
+    text-align: center;
+    color: white;
+    position: relative;
+    margin:30%;
+    font-size: 50px;
+}
+

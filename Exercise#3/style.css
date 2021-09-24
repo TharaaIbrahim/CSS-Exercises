@@ -1,0 +1,19 @@
+header{
+    color: coral;
+}
+
+
+.first{
+    margin-left:75%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.last{
+    font-family:'Courier New', Courier, monospace ;
+    margin-left:73% ;
+    font-weight: bolder;
+}
+
+.font{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

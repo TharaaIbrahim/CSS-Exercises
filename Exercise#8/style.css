@@ -1,0 +1,30 @@
+.firstp{
+    color:blue;
+}
+
+p> a{
+    color:orange;
+}
+
+.ap3{
+background-color: yellow;
+text-decoration-color: red;
+}
+b>a{
+    color:red;
+    
+}
+li >a{
+    color: red;
+    
+}
+
+div li{
+    color:blue;
+}
+.firstul{
+    list-style: circle;
+}
+.thirdul{
+    list-style: none;
+}

@@ -1,0 +1,53 @@
+body{
+    background-color:rgba(255, 228, 196, 0.445);
+}
+
+.sec1{
+    background-color: white;
+    border: 1px solid black;
+
+}
+
+span{
+    background-color: yellow;
+    padding: 0 5px 0 5px;
+}
+
+
+.sec1s{
+   background-color:lightsalmon;
+   padding: 0 5px 0 5px;
+}
+
+section{
+    margin-bottom: 1%;
+    padding-left:10px;
+    width: 60%;
+}
+
+
+
+
+.sec2s{
+   background-color:lightsalmon;
+   padding: 0 5px 0 5px;
+}
+
+
+.sec2{
+    background-color: white;
+    border:2px dashed black;
+}
+
+
+.sec3{
+    background-color: white;
+    color:purple;
+    border:1px solid black;
+}
+.sec2p{
+    border: 2px dashed red;
+    margin-right: 1%;
+    
+}
+
