@@ -3,9 +3,8 @@ body{
 }
 header{
     background-color:rgba(255, 217, 0, 0.664);
-    width:61%;
+    width:60%;
     padding-bottom: 20px;
-    margin-right: 10% ;
     margin-left: 20%;
 }
 
@@ -24,7 +23,8 @@ aside{
 background-color:lightgray;
 display: inline-block;
 position: absolute;
-width:15%;
+width:14%;
 height: 80%;
-}
+padding-right:3px ;
 
+}
