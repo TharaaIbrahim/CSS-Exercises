@@ -4,14 +4,15 @@ header{
 
 
 .first{
-    margin-left:75%;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:70%;
+    font-family: Consolas, Menlo, Monaco, Courier New, monospace;
+    font-size: xx-large;
 }
 
 .last{
     font-family:'Courier New', Courier, monospace ;
     margin-left:73% ;
-    font-weight: bolder;
+    
 }
 
 .font{
