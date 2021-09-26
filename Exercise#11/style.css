@@ -3,12 +3,11 @@ article{
 }
 
 
-body{
-    background-image: url("https://pbs.twimg.com/profile_images/378800000822221347/fe03c9ac958c5ded3448a30af948347d_400x400.png" );
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 200px 500px;
-    background-position:98% 10%;
+img{position: fixed;
+    width: 200px;
+    height: 500px;
+    margin-left: 84%;
+    margin-bottom: 99%;
+   
 
-     
 }
