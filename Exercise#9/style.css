@@ -1,7 +1,6 @@
 div{
     width: 35px;;
     height:35px;
-    display: table-cell;
     display: inline-block;
     border: 1px solid black;
     background-color:green;
@@ -11,11 +10,6 @@ div{
 }
 .divup{
     background-color:yellow;
+    vertical-align: 80%;
    
 } 
-
-.divdown{
-vertical-align:middle;
-
-   
-}
